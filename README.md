@@ -9,7 +9,7 @@ I'm working with ELAI, driving innovation in Mobile Application, AI software sol
 
 ### Learning 🌱
 
-I'm always on the lookout for opportunities to learn and grow. Currently, I'm diving into Langchain, Microservices, Infrastructure, and other advanced software technologies.
+I'm always on the lookout for opportunities to learn and grow. Currently, I'm diving into Langchain, Microservices, Infrastructure, and other advanced open-source softwares.
 
 ### Stacks ✨
 
