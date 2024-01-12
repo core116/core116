@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm a Software Engineer
 
 With over 7 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
-
+I am a CEO & Founcer of Business Buddy. 
 ### Current Work 🔭
 
 I'm working with ELAI, driving innovation in Mobile Application, AI software solutions.
