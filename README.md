@@ -1,24 +1,28 @@
 ![header-111](https://github.com/core116/core116/assets/120689599/83212337-93ff-4790-bb52-b0173e8535e3)
-# Hi there 👋, I'm a Software Engineer!
+### Hi there 👋, I'm a Software Engineer
 
 With over 7 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
 
-## Current Work 🔭 
+### Current Work 🔭
 
-I'm working with CNA Insurance PMW, driving innovation in insurance-oriented software solutions.
+I'm working with ELAI, driving innovation in Mobile Application, AI software solutions.
 
-## Learning 🌱 
+### Learning 🌱
 
 I'm always on the lookout for opportunities to learn and grow. Currently, I'm diving into Langchain, Microservices, Infrastructure, and other advanced software technologies.
 
-## Collaboration 👯 
+### Stacks ✨
 
-I'm open to collaboration on projects that can add value to the community. If you have an idea or a concept that you believe is transformative, let's get in touch and collaborate.
+- **Back-end Programming Language**
+  - Java, Node, Python, C#
+- **Mobile Development**
+  - iOS - Swift, Objective-C
+  - Android - Java, Kotlin
+  - Hybrid App - React Native, Flutter
 
-## Let's Chat 💬 
+### Let's Chat 💬
 
 If you're looking to get in touch regarding Java, Python, LLMs, Backend, or System Architecture, I'm here to help. Ask me anything - from professional advice to technical guidance, I'm all ears.
 
----
+> The best way to predict the future is to invent it. Core of Biz 🎯
 
-Remember, "The best way to predict the future is to invent it." - Alan Kay
