@@ -1,11 +1,11 @@
 ![header-111](https://github.com/core116/core116/assets/120689599/83212337-93ff-4790-bb52-b0173e8535e3)
 ### Hi there 👋, I'm a Software Engineer
 
-With over 7 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
+With over 9 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
 I am a @CEO & Founder of Business Buddy self-funded. 
 ### Current Work 🔭
 
-I'm working with ELAI, driving innovation in Mobile Application, AI software solutions.
+I'm working with Embroker as a technical consultant, driving innovation in Web & Mobile Application, AI-powered software solutions.
 
 ### Learning 🌱
 
