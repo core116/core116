@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm a Software Engineer
 
 With over 7 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
-I am a @CEO & Founder of Business Buddy. 
+I am a @CEO & Founder of Business Buddy self-funded. 
 ### Current Work 🔭
 
 I'm working with ELAI, driving innovation in Mobile Application, AI software solutions.
@@ -14,7 +14,7 @@ I'm always on the lookout for opportunities to learn and grow. Currently, I'm di
 ### Stacks ✨
 
 - **Back-end Programming Language**
-  - Java, Node, Python, C#
+  - Java, Node, Python, Rust
 - **Mobile Development**
   - iOS - Swift, Objective-C
   - Android - Java, Kotlin
