@@ -1,11 +1,11 @@
 ![header-111](https://github.com/core116/core116/assets/120689599/83212337-93ff-4790-bb52-b0173e8535e3)
 ### Hi there 👋, I'm a Software Engineer
 
-With over 9 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
-I am a @CEO & Founder of Business Buddy self-funded. 
+With over 8 years of professional experience in the field, I'm currently focused on evolving software development and system architecture practices.
+
 ### Current Work 🔭
 
-I'm working with Embroker as a technical consultant, driving innovation in Web & Mobile Application, AI-powered software solutions.
+I'm working as a individual freelancer, driving innovation in Web & Mobile Application, AI-powered software solutions.
 
 ### Learning 🌱
 
@@ -26,3 +26,6 @@ If you're looking to get in touch regarding Java, Python, LLMs, Backend, or Syst
 
 > The best way to predict the future is to invent it. Core of Biz 🎯
 
+### Contact
+ - Eamil: devcore116@gmail.com
+ - Phone: +1 303 720 7531
